@@ -1,2 +1,4 @@
-# Programming-Fundamentals_-COSC2531-_Assignment-_1-
-The objective of this assignment is to develop your coding and Problem-solving skills in step a step-by-step manner, the primary language used for this coding challenge is Python this project is divided into different stages gradually introducing different basic concepts
+# Develping a Movie Ticketing system
+
+
+## This project aims to build a ticking system for movie theatres, box office cashiers or managers from cinemas to use this system to process customers' ticket purchases.  
